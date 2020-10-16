@@ -1,0 +1,13 @@
+name: EXPImprovement
+version: ${project.version}
+main: red.man10.expimprovement.EXPImprovement
+api-version: 1.16
+commands:
+  eeb:
+    description: help show
+    usage: /<command>
+    default: op
+  amm:
+    description: get machine
+    usage: /<command>
+    default: op

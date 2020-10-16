@@ -1,0 +1,8 @@
+mode: true
+mysql:
+  host:
+  port:
+  user:
+  pass:
+  db:
+tax : 5
